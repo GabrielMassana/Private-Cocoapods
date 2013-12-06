@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author       = { "Gabriel Massana" => "gabrielmassana@gmail.com" }
   s.platform     = :ios, '7.0'
   s.source       = { :git => "https://github.com/GabrielMassana/GM_HighlightAnimationAdditions.git", :tag => "0.0.1" }
-  s.source_files  = '/*.{h,m,png,md}'
+  s.source_files  = 'GM_HighlightAnimationAdditions/*.{h,m,png}'
   s.homepage	=  'https://github.com/GabrielMassana/GM_HighlightAnimationAdditions'
   s.summary      = 'HighlightAnimationAdditions'
   
