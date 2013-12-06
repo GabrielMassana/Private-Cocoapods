@@ -9,5 +9,6 @@ Pod::Spec.new do |s|
   s.source_files  = '*.{h,m,png}'
   s.homepage	=  'https://github.com/GabrielMassana/GM_HighlightAnimationAdditions'
   s.summary      = 'HighlightAnimationAdditions'
-  
+  s.framework    = 'QuartzCore'
+
 end
